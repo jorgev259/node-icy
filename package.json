@@ -1,7 +1,7 @@
 {
   "name": "icy",
   "description": "Node.js module for parsing and/or injecting ICY metadata",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author": "Nathan Rajlich <nathan@tootallnate.net>",
   "repository": {
     "type": "git",
